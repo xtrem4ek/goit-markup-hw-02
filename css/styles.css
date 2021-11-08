@@ -1,0 +1,96 @@
+.item {
+  color: #2196f3;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+}
+
+.step {
+  color: #212121;
+  font-size: 14px;
+  letter-spacing: 0.03em;
+}
+
+.middle {
+  color: #757575;
+  font-size: 14px;
+  letter-spacing: 0.03em;
+}
+
+.late {
+  color: #212121;
+  font-size: 16px;
+  letter-spacing: 0.03em;
+}
+
+.star {
+  color: #757575;
+  font-size: 16px;
+  letter-spacing: 0.03em;
+}
+
+.finish {
+  font-size: 14px;
+  letter-spacing: 0.03em;
+}
+
+.next {
+  font-size: 44px;
+  letter-spacing: 0.06em;
+}
+
+.order {
+  font-size: 16px;
+  letter-spacing: 0.06em;
+}
+
+.btn {
+  background-color: #2196f3;
+}
+
+.news {
+  color: #212121;
+  font-style: bold;
+  font-size: 18px;
+}
+
+.class {
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0.03em;
+}
+
+.fin {
+  color: #757575;
+  font-style: Regular;
+  font-size: 16px;
+}
+.link {
+  text-decoration: none;
+  color: #212121;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+}
+
+ul {
+  list-style: none;
+}
+
+.mail {
+  text-decoration: none;
+  color: #757575;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+}
+
+.imail {
+  font-style: Regular;
+  font-size: 14px;
+}
