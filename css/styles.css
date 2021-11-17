@@ -3,51 +3,45 @@
   font-weight: 500;
   font-size: 14px;
   line-height: 16px;
-  letter-spacing: 0.02em;
   text-decoration: none;
 }
 
 .step {
   color: #212121;
   font-size: 14px;
-  letter-spacing: 0.03em;
 }
 
 .middle {
   color: #757575;
   font-size: 14px;
-  letter-spacing: 0.03em;
 }
 
 .late {
   color: #212121;
   font-size: 16px;
-  letter-spacing: 0.03em;
 }
 
 .star {
   color: #757575;
   font-size: 16px;
-  letter-spacing: 0.03em;
 }
 
 .finish {
   font-size: 14px;
-  letter-spacing: 0.03em;
 }
 
 .next {
   font-size: 44px;
-  letter-spacing: 0.06em;
 }
 
 .order {
   font-size: 16px;
-  letter-spacing: 0.06em;
 }
 
 .btn {
   background-color: #2196f3;
+  color: #ffffff;
+  cursor: pointer;
 }
 
 .news {
@@ -59,13 +53,13 @@
 .class {
   color: #ffffff;
   font-size: 14px;
-  letter-spacing: 0.03em;
 }
 
 .fin {
   color: #757575;
   font-style: Regular;
   font-size: 16px;
+  line-height: 30px;
 }
 .link {
   text-decoration: none;
@@ -73,7 +67,6 @@
   font-weight: 500;
   font-size: 14px;
   line-height: 16px;
-  letter-spacing: 0.02em;
 }
 
 ul {
@@ -87,10 +80,14 @@ ul {
   font-weight: 500;
   font-size: 14px;
   line-height: 16px;
-  letter-spacing: 0.02em;
 }
 
 .imail {
   font-style: Regular;
   font-size: 14px;
+  line-height: 24px;
+}
+
+.cursor {
+  cursor: pointer;
 }
